@@ -1,6 +1,6 @@
 # first_flutter_app
 
-A new Flutter project.
+This is my first Flutter app from the _Google Developer Groups: Flutter Forward_ event at Google in Ann Arbor.
 
 ## Getting Started
 

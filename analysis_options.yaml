@@ -1,3 +1,4 @@
+# This tells the Dart analyzer to take it easy when analyzing my code.
 include: package:flutter_lints/flutter.yaml
 
 linter:
