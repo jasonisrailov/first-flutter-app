@@ -6,9 +6,9 @@ Below is a list of all the amazing things I learned from this GDG event and the 
 - The basics of how Flutter works
 - Creating layouts in Flutter
 - Connecting user interactions (like button presses) to app behavior
-- Keeping your Flutter code organized
-- Making your app responsive
-- Achieving a consistent look & feel of your app
+- Keeping Flutter code organized
+- Making app responsive
+- Achieving a consistent look & feel of app
 
 A few resources I used:
 - [Lab: Your first Flutter app](https://codelabs.developers.google.com/codelabs/flutter-codelab-first#0)
